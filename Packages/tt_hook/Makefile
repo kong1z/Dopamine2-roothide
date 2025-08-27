@@ -1,7 +1,7 @@
 all:
 
 package:
-	cp tt_hook.deb ../
+	cp com.yourname.localespoofer.deb ../
 
 clean:
-	rm -f ../tt_hook.deb
+	rm -f ../com.yourname.localespoofer.deb
